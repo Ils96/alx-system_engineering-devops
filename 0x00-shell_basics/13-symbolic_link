@@ -1,2 +1,3 @@
 #!/bin/bash
-ln _S /bin/ls __ls__
+ln _S "/bin/ls" "__ls__"
+
